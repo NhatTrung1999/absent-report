@@ -570,7 +570,7 @@ function App() {
                   onClick={formik.handleSubmit}
                   type="submit"
                 >
-                  Send
+                  Gửi
                 </Button>
               </Grid>
             </Grid>
